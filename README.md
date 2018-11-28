@@ -32,7 +32,7 @@ http://www.internousdev.com/lilac/HomeAction
 
 **開発期間**
 
-2018/11/01~2018/11/31
+2018/11/01~2018/11/30
 
 **開発環境**
 
